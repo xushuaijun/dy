@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">智慧灌区系统</string>
+
+    <!-- xlistview  start -->
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <!-- xlistview end -->
+    <string name="open_valve">阀门开关操作需30-50秒设备动作时间。\n30-50秒后阀门可完成开启操作。</string>
+    <string name="close_valve">阀门开关操作需30-50秒设备动作时间。\n30-50秒后阀门可完成关闭操作。</string>
+
+    <!--工具类下载 -->
+    <string name="update_app_model_error">下载失败(点击浏览器下载)</string>
+    <string name="update_app_model_prepare">准备下载</string>
+    <string name="update_app_model_progress">正在下载 %1$d%2$s</string>
+    <string name="update_app_model_success">下载成功(点击安装)</string>
+</resources>
